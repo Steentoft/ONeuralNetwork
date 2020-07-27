@@ -1,2 +1,0 @@
-# ONeuralNetwork
-ONeuralNetwork by Steentoft
