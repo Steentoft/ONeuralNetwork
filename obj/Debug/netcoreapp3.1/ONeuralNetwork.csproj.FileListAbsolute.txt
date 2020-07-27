@@ -1,0 +1,13 @@
+C:\Visual Studio Projekter\ONeuralNetwork\ONeuralNetwork\bin\Debug\netcoreapp3.1\ONeuralNetwork.exe
+C:\Visual Studio Projekter\ONeuralNetwork\ONeuralNetwork\bin\Debug\netcoreapp3.1\ONeuralNetwork.deps.json
+C:\Visual Studio Projekter\ONeuralNetwork\ONeuralNetwork\bin\Debug\netcoreapp3.1\ONeuralNetwork.runtimeconfig.json
+C:\Visual Studio Projekter\ONeuralNetwork\ONeuralNetwork\bin\Debug\netcoreapp3.1\ONeuralNetwork.runtimeconfig.dev.json
+C:\Visual Studio Projekter\ONeuralNetwork\ONeuralNetwork\bin\Debug\netcoreapp3.1\ONeuralNetwork.dll
+C:\Visual Studio Projekter\ONeuralNetwork\ONeuralNetwork\bin\Debug\netcoreapp3.1\ONeuralNetwork.pdb
+C:\Visual Studio Projekter\ONeuralNetwork\ONeuralNetwork\obj\Debug\netcoreapp3.1\ONeuralNetwork.csprojAssemblyReference.cache
+C:\Visual Studio Projekter\ONeuralNetwork\ONeuralNetwork\obj\Debug\netcoreapp3.1\ONeuralNetwork.AssemblyInfoInputs.cache
+C:\Visual Studio Projekter\ONeuralNetwork\ONeuralNetwork\obj\Debug\netcoreapp3.1\ONeuralNetwork.AssemblyInfo.cs
+C:\Visual Studio Projekter\ONeuralNetwork\ONeuralNetwork\obj\Debug\netcoreapp3.1\ONeuralNetwork.csproj.CoreCompileInputs.cache
+C:\Visual Studio Projekter\ONeuralNetwork\ONeuralNetwork\obj\Debug\netcoreapp3.1\ONeuralNetwork.dll
+C:\Visual Studio Projekter\ONeuralNetwork\ONeuralNetwork\obj\Debug\netcoreapp3.1\ONeuralNetwork.pdb
+C:\Visual Studio Projekter\ONeuralNetwork\ONeuralNetwork\obj\Debug\netcoreapp3.1\ONeuralNetwork.genruntimeconfig.cache
